@@ -1,13 +1,13 @@
-package edu.rodrigo.desafio.padroes.projeto.dio;
+package edu.rodrigo.desafio.padroes.projetos.dio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DesafioPadroesProjetoDioApplication {
+public class DesafioPadroesProjetosDioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DesafioPadroesProjetoDioApplication.class, args);
+		SpringApplication.run(DesafioPadroesProjetosDioApplication.class, args);
 	}
 
 }
